@@ -1,0 +1,1 @@
+Sophal Chat, I'm documenting how it works.  This app uses Node.js and Socket.io
